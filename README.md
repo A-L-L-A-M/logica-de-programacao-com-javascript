@@ -26,3 +26,6 @@ além de garantir uma experiência interativa com o botão de reiniciar quando o
 
 - ``HTML, CSS e Javascript``
 - ``IDE vscode``
+
+# 🎮 Você pode testar o jogo
+- https://logica-de-programacao-com-javascript-qkhvtot5o.vercel.app/
